@@ -16,3 +16,8 @@ https://github.com/tai/decrypt-xyz3w
 
 Cooling fan duct by Brian the 3D PrintCrestor
 https://www.thingiverse.com/thing:1723418/files
+
+## Deep Dive Protocol Info
+
+http://www.soliforum.com/topic/17028/print-gcode-files-to-minimaker/page/2/
+
