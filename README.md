@@ -4,6 +4,8 @@ Information collection about the XYZPrinting Da Vinci Pro 1.0 3D Printer.
 
 ## Tools
 
+### miniMover (Win32)
+
 https://github.com/reality-boy/miniMover
 
 ### decrypt-xyz3w
@@ -16,6 +18,10 @@ https://github.com/tai/decrypt-xyz3w
 
 Cooling fan duct by Brian the 3D PrintCrestor
 https://www.thingiverse.com/thing:1723418/files
+
+## Slicer Settings / Cura Headers / gcode
+
+https://www.thingiverse.com/groups/da-vinci/forums/general/topic:3950
 
 ## Deep Dive Protocol Info
 
