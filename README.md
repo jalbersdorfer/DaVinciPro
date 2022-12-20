@@ -16,8 +16,11 @@ https://github.com/tai/decrypt-xyz3w
 
 ## Mods
 
-Cooling fan duct by Brian the 3D PrintCrestor
+Cooling fan duct by Brian the 3D PrintCreator  
 https://www.thingiverse.com/thing:1723418/files
+
+Maybe even better: Cooling fan duct - All In one Part  
+https://www.printables.com/de/model/144071-da-vinci-10a-dual-blower-fans
 
 ## Slicer Settings / Cura Headers / gcode
 
