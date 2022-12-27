@@ -26,6 +26,12 @@ https://github.com/tai/decrypt-xyz3w
 
 ## Mods
 
+Klipper Docker Stack  
+https://github.com/mkuf/prind
+
+Chaosprint Klipper Videos 
+https://youtube.com/playlist?list=PLuB7Jamt-uqDkpWlYgwHem0DOAboSvf6V
+
 Cooling fan duct by Brian the 3D PrintCreator  
 https://www.thingiverse.com/thing:1723418/files
 
