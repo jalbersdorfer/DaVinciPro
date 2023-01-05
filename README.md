@@ -26,6 +26,9 @@ https://github.com/tai/decrypt-xyz3w
 
 ## Mods
 
+Frankenvinci
+http://www.techmonkeybusiness.com/articles/Frankenvinci.html
+
 Klipper Docker Stack  
 https://github.com/mkuf/prind
 
