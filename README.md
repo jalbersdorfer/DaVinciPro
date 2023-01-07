@@ -35,6 +35,9 @@ https://github.com/mkuf/prind
 Chaosprint Klipper Videos 
 https://youtube.com/playlist?list=PLuB7Jamt-uqDkpWlYgwHem0DOAboSvf6V
 
+Klipper on Ender 3 - but explains several advances Topics like input shaping etc.
+https://www.youmaketech.com/how-to-install-klipper-on-the-skr-mini-e3-v3/
+
 Cooling fan duct by Brian the 3D PrintCreator  
 https://www.thingiverse.com/thing:1723418/files
 
