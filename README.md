@@ -14,6 +14,18 @@ Just add this to the beginning of your start script in S3D.
 ; machine = daVinciAW10
 ```
 
+### Prusa Slicer
+
+It seems possible to generate valid GCode for the XYZ DaVinci Pro 1.0 on  
+the Prusa Slicer with some custom Printer Settings, as Trumpton states on his blog:  
+http://blog.trumpton.org.uk/2020/05/xyz-davinci-pro-and-prusaslicer.html
+
+Sadly, the Download of the File with the necessary GCodes is not linked correctly in the Blog.  
+I left a comment *(2023-01-13)*, asking for a fix of the Download, but did not yet receive any response about it.
+
+He also has a good Article about a serial Protocol Analysis of the Printer according to wireless network connectivity:  
+http://blog.trumpton.org.uk/2020/04/davinci-10-pro-wireless-network.html
+
 ### miniMover (Win32)
 
 https://github.com/reality-boy/miniMover
